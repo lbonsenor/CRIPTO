@@ -1,0 +1,7 @@
+- Si el sistema no es teóricamente irrompible, al menos debe serlo en la práctica.
+- La efectividad del sistema no debe depender de que su diseño permanezca en secreto.
+- La clave debe ser fácilmente memorizable de manera que no haya que recurrir a notas escritas.
+- Los criptogramas deberán dar resultados alfanumericos.
+- El sistema debe ser operable por una única persona.
+- El sistema debe ser fácil de utilizar.
+- Un criptosistema debe ser seguro incluso si todo sobre el sistema, excepto la clave, es de público conocimiento.

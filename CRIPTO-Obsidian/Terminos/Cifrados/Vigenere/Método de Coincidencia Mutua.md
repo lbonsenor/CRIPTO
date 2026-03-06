@@ -1,0 +1,3 @@
+- Determinar estadísticamente las letras más probables en cada grupo
+- Estimar las rotaciones que llevan a cada grupo a equipararse con las estadísticas del lenguaje
+- Probar las rotaciones, eliminando caminos al encontrar combinaciones sin sentido
