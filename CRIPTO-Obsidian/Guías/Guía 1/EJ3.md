@@ -1,0 +1,3 @@
+Asumo que $K=6$
+$$\implies d(c, 6)=$$
+$$\text{PERSEVERAENAQUELLASCOSASQUEREALMENTEDESEESCONSEGUIR}$$

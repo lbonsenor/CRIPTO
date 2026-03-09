@@ -15,6 +15,8 @@ iuyr|dgxc|yofc|ttzh|fc
 $$\implies d(p,k)=\text{iyurdgxcyofcttzhfc}$$
 Como se puede ver, el primer carácter de $p$ se rota por 4, el segundo por 2, y así sucesivamente
 
+Idealmente, la clave tiene mayor o igual longitud que el texto plano
+
 **Ataque:**
 - Determinar la longitud del bloque
 - Analizar la clave de cada bloque por separado

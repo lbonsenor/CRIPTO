@@ -29,6 +29,10 @@ Recordando la tabla de frecuencias del castellano
 | D          | $5.87$  | F           | $1.13$ | K          | $0.11$ |
 | T          | $5.40$  | V           | $0.82$ | Ñ          | $0.10$ |
 
+Considerando que la clave es de longitud 4, podemos dividir el texto cifrado en 4 grupos tal que
+$$\forall c\in C,A_{i<4}\implies \exists k:C[k\cdot i]=c$$
+Y a partir de esto vemos la frecuencias de cada grupo y formular claves posibles
+
 Podemos transformarlo en este descifrado con la clave $K=ABER$
 
 ```
@@ -36,5 +40,4 @@ PARA QUEL ACOS ANOM ESOR PREN DACO MOOT ROSA NOSH ECOM ENZA DOYA CONU NOSS UAVE 
 ```
 
 $$\implies d(c,\text{ABER})=p$$
-Tal que $p=$ 
-	
+

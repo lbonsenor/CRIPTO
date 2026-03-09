@@ -1,4 +1,4 @@
-Un **criptosistema** es una terna de algoritmos
+Un **criptosistema** $\pi$ es una terna de algoritmos
 
 $\text{Generador de Clave: } ()\to K$
 $\text{Cifrado: }K\times P\to C$
@@ -11,5 +11,3 @@ Tal que:
 
 > [!Note] Propiedad Basica: Función Inversa
 > $$\forall m,k\text{ validos}:d_{k}(e_{k}(m))=m$$ 
-
-
