@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de74c580bc208aa2",
+            "id": "1b3cc4f01aa3b624",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminos/Cifrados/Por Sustitución/Definición.md",
+                "file": "Terminos/Cifrados/One Time Pad/Definición.md",
                 "mode": "source",
                 "source": false
               },
@@ -28,18 +28,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b3cc4f01aa3b624",
+            "id": "913c675b575750b6",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Guías/Guía 1/Guia 1 - Criptografía Clásica.pdf"
+                "file": "Clases/Clase 02 - Criptografia - Cifrado - 1ra parte.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Guia 1 - Criptografía Clásica"
+              "title": "Clase 02 - Criptografia - Cifrado - 1ra parte"
+            }
+          },
+          {
+            "id": "8cbe094c6d0e3b64",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Guías/Guía 2/Guia 2 - Criptografía Simétrica.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Guia 2 - Criptografía Simétrica"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,7 +214,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "de74c580bc208aa2",
+  "active": "1b3cc4f01aa3b624",
   "lastOpenFiles": [
     "Terminos/Cifrados/Vigenere/Definición.md",
     "Terminos/Función de Descifrado.md",
@@ -215,6 +228,8 @@
     "Guías/Guía 1/EJ5.md",
     "Guías/Guía 1/EJ8.md",
     "Guías/Guía 1/Guia 1 - Criptografía Clásica.pdf",
+    "Terminos/Cifrados/One Time Pad",
+    "Guías/Guía 1/Untitled.md",
     "Guías/Guía 1/EJ4.md",
     "Guías/Guía 1/EJ1.md",
     "Guías/Guía 1/EJ3.md",
@@ -224,16 +239,13 @@
     "Guías/Guía 1",
     "Untitled.md",
     "Guías",
+    "Terminos/Cifrados/Vigenere/Definición.md",
+    "Terminos/Principios de Kerchoffs.md",
     "Welcome.md",
-    "Terminos/Seguridad.md",
     "Terminos/Cifrados/Por Sustitución/Untitled.md",
     "Terminos/Cifrados/Vigenere/Untitled.md",
     "Terminos/Cifrados/Vigenere",
     "Terminos/Cifrados/Por Sustitución/Untitled 1.md",
-    "Terminos/Cifrados/Por Sustitución",
-    "Terminos/Cifrados/Por Sustitución",
-    "Terminos/Cifrados/Por Rotación",
-    "Terminos/Cifrados",
-    "Terminos"
+    "Terminos/Cifrados/Por Sustitución"
   ]
 }
