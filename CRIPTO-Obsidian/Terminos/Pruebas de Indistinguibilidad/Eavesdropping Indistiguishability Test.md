@@ -1,5 +1,4 @@
 Dado un adversario $A(n)$ y un Criptosistema $\Pi(n)$
-El test de Eavesdropping Indistiguishability test hace lo siguiente:
 1. $A$ genera $p_{0}, p_{1}$ arbitrariamente
 2. Se genera una clave $k\leftarrow  K$
 3. Se genera $b\leftarrow\{0,1\}$

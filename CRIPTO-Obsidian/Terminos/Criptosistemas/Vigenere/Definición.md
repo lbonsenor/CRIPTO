@@ -1,4 +1,4 @@
-Es una sustitución polialfabética, el cual es una mezcla entre el cifrado por [[Por Rotación|Rotación]] y por[[Terminos/Cifrados/Por Sustitución/Definición|Sustitución]]
+Es una sustitución polialfabética, el cual es una mezcla entre el cifrado por [[Por Rotación|Rotación]] y por[[Terminos/Criptosistemas/Por Sustitución/Definición|Sustitución]]
 
 Es una clave compuesta por $n$ números, tal que la posición $i$ en el texto plano se rota por $K[i\mod(n)]$
 

@@ -4,31 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "6ed775969c0ad2ba",
+        "id": "945db5e62f96000f",
         "type": "tabs",
         "children": [
           {
-            "id": "1b3cc4f01aa3b624",
+            "id": "67d304875a8617cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminos/Cifrados/One Time Pad/Definición.md",
+                "file": "Terminos/Primitivas de Cifrado/AES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Definición"
+              "title": "AES"
             }
           }
         ]
       },
       {
-        "id": "945db5e62f96000f",
+        "id": "842014b0b642b78d",
         "type": "tabs",
         "children": [
           {
-            "id": "913c675b575750b6",
+            "id": "1b3cc4f01aa3b624",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -38,21 +38,8 @@
               "icon": "lucide-file-text",
               "title": "Clase 02 - Criptografia - Cifrado - 1ra parte"
             }
-          },
-          {
-            "id": "8cbe094c6d0e3b64",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Guías/Guía 2/Guia 2 - Criptografía Simétrica.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Guia 2 - Criptografía Simétrica"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,38 +201,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "1b3cc4f01aa3b624",
+  "active": "67d304875a8617cc",
   "lastOpenFiles": [
-    "Terminos/Cifrados/Vigenere/Definición.md",
+    "Terminos/Primitivas de Cifrado/AES.md",
+    "Pasted image 20260326190059.png",
+    "Clases/Clase 02 - Criptografia - Cifrado - 1ra parte.pdf",
+    "Clases/Clase 02 - Criptografia - Cifrado.pdf",
+    "Terminos/Primitivas de Cifrado/3-DES.md",
+    "Terminos/Primitivas de Cifrado/Data Encryption Standard (DES).md",
+    "Terminos/Pruebas de Indistinguibilidad/Multiple Message Eavesdropping Test.md",
+    "Terminos/Primitivas de Cifrado",
+    "Terminos/Criptosistemas/Counter (CTR).md",
+    "Terminos/Criptosistemas/CBC.md",
+    "Terminos/Criptosistemas/Por Sustitución/Definición.md",
+    "Terminos/Criptosistemas/Por Rotación.md",
+    "Terminos/Criptosistemas/CFB.md",
+    "Terminos/Criptosistemas/OFB.md",
+    "Terminos/Criptosistemas/One Time Pad/Definición.md",
+    "Terminos/Criptosistemas/OFB",
+    "Terminos/Criptosistemas/CFB",
+    "Terminos/Pruebas de Indistinguibilidad/Chosen Plain Text indistinguishability.md",
+    "Terminos/Criptosistemas/CBC",
+    "Terminos/Pruebas de Indistinguibilidad/Eavesdropping Indistiguishability Test.md",
+    "Terminos/Pruebas de Indistinguibilidad",
+    "Welcome.md",
+    "Terminos/Seguridad Computacional.md",
+    "Terminos/Seguridad.md",
+    "Terminos/Secreto Perfecto.md",
+    "Terminos/Criptosistemas/Vigenere/Definición.md",
     "Terminos/Función de Descifrado.md",
-    "Terminos/Cifrados/Por Sustitución/Ejercicio.md",
-    "Terminos/Cifrados/Por Sustitución/Definición.md",
+    "Terminos/Criptosistemas/Por Sustitución/Ejercicio.md",
     "Terminos/Principios de Kerchoffs.md",
     "Terminos/Criptosistema.md",
-    "Terminos/Secreto Perfecto.md",
-    "Terminos/Cifrados/Vigenere/Ejercicio.md",
-    "Terminos/Cifrados/Vigenere/Método de Coincidencia Mutua.md",
+    "Terminos/Criptosistemas/Vigenere/Ejercicio.md",
+    "Terminos/Criptosistemas/Vigenere/Método de Coincidencia Mutua.md",
     "Guías/Guía 1/EJ5.md",
-    "Guías/Guía 1/EJ8.md",
     "Guías/Guía 1/Guia 1 - Criptografía Clásica.pdf",
-    "Terminos/Cifrados/One Time Pad",
-    "Guías/Guía 1/Untitled.md",
-    "Guías/Guía 1/EJ4.md",
-    "Guías/Guía 1/EJ1.md",
-    "Guías/Guía 1/EJ3.md",
-    "Guías/Guía 1/EJ2.md",
-    "Terminos/Cifrados/Por Rotación.md",
-    "Clases/Clase 01 - Criptografia - Introduccion.pdf",
-    "Guías/Guía 1",
-    "Untitled.md",
-    "Guías",
-    "Terminos/Cifrados/Vigenere/Definición.md",
-    "Terminos/Principios de Kerchoffs.md",
-    "Welcome.md",
-    "Terminos/Cifrados/Por Sustitución/Untitled.md",
-    "Terminos/Cifrados/Vigenere/Untitled.md",
-    "Terminos/Cifrados/Vigenere",
-    "Terminos/Cifrados/Por Sustitución/Untitled 1.md",
-    "Terminos/Cifrados/Por Sustitución"
+    "Terminos/Criptosistemas/One Time Pad",
+    "Clases/Clase 01 - Criptografia - Introduccion.pdf"
   ]
 }

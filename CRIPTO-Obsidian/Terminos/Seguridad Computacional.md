@@ -1,0 +1,1 @@
+La seguridad computacional, a diferencia del [[Secreto Perfecto]], garantiza [[Seguridad|seguridad]] solo contra adversarios "limitados" en términos de recursos y tiempo, y acepta una pequeña probabilidad de éxito para el atacante 
