@@ -2,4 +2,4 @@
 
 >[!info] Seguridad
 >CFB es CPA-Secure si no se repite $(k,\text{nonce})$
->
+

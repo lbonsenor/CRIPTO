@@ -13,3 +13,4 @@ $P(CPA_{A,\Pi}=1)=0.5+\varepsilon\implies\Pi \text{ es indistinguible}$
 >- Si un criptosistema es CPA-Secure para un mensaje también lo es para múltiples
 >- Un criptosistema que es CPA-Secure, pero de tamaño limitado (cifra mensajes de hasta n bits) puede ser extendido arbitrariamente
 
+A diferencia de [[Eavesdropping Indistiguishability Test]], este adversario tiene acceso a la función $\text{Enc}(k)$

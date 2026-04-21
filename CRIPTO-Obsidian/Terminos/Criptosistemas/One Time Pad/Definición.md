@@ -14,3 +14,7 @@ c =   01001010010110100
 
 $\forall C=\langle G,E,D\rangle\text{ con secreto perfecto}\iff C\equiv OTP$
 
+Ante la redefinición del [[Seguridad Computacional|secreto perfecto]], OTP se redifine a
+$\text{Gen: } k\leftarrow\{0,1\}^n, n=|p|$
+$\text{Enc: }e_{k}(p)=p\oplus G(k)$
+$\text{Dec: }d_{k}(c)=c\oplus G(k)$
