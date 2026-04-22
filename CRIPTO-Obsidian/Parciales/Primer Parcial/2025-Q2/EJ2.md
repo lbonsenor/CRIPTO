@@ -1,4 +1,4 @@
-![[Pasted image 20260420150918.png|602]]
+![[EJ2.png|602]]
 
 ```
 GWAOESFENITLAGEUGEDRVPHJVCDFDR
@@ -25,6 +25,14 @@ V - 2
 W - 1
 ```
 
-GWAOE SFENI TLAGE UGEDR VPHJV CDFDR
+Como se que fue encriptado con "CLAVE", hago un Vigenere inverso
 
-SECR
+```
+ ELATA QUESE RAALA SVEIN TEHOR ASFIN
++
+ CLAVE CLAVE CLAVE CLAVE CLAVE CLAVE
+ -----------------------------------
+ GWAOE SFENI TLAGE UGEDR VPHJV CDFDR
+ 
+```
+Por lo tanto: "El ataque sera a las veinte horas fin"

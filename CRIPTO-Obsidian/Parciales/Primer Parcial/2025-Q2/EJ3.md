@@ -1,4 +1,4 @@
-![[Pasted image 20260420165512.png]]
+![[EJ3.png]]
 
 Siempre que $E_{k}$ sea biyectiva, es posible
 

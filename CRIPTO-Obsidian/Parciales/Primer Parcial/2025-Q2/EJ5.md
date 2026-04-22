@@ -1,4 +1,4 @@
-![[Pasted image 20260420172712.png]]
+![[EJ5.png]]
 ### a) **Falso**
 
 - **Corrección:** MD5 es una **función hash (no es un criptosistema de encriptación)** y no debe ser utilizado porque es **criptográficamente inseguro debido a vulnerabilidades de colisión**, no por su longitud de 128 bits.

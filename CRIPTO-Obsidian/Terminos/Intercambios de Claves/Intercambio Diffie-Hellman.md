@@ -15,3 +15,9 @@ $K_{s}\equiv(g^x)^y\quad(p)\equiv(g^y)^x\quad(p)$
 > Si $A$ y $B$ se conocen de antemano, pueden tener predefinidos $(G, q, g)$
 
 Esta versión requiere un canal de transmisión autentificado (que un atacante no pueda modificar mensajes)
+
+> [!info] Propiedades
+> - Dado $g^x, g^y$, no debería ser posible obtener $x,y$ (Esto se conoce como el problema del logaritmo discreto, y no tiene solución eficiente)
+> - Dados $g, g^x, g^y$ , un adversario no puede distinguir $g^{xy}$ de un valor aleatorio
+
+Hoy en día se utiliza para el handshake y distribución de claves

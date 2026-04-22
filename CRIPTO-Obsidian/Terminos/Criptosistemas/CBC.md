@@ -6,3 +6,6 @@ Utiliza la salida de un bloque como entrada para el proximo
 
 > [!info] Seguridad
 > CBC es CPA-Secure con IVs aleatorios
+
+> [!danger] Tolerancia a Errores
+> Un error en un bloque de cifrado daña el bloque actual y un bit del siguiente.
