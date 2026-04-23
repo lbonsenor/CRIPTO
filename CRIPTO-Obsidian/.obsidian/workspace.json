@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminos/Criptosistemas/Textbook RSA.md",
+                "file": "Parciales/Primer Parcial/2025-Q2/EJ5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Textbook RSA"
+              "title": "EJ5"
             }
           }
         ]
@@ -216,34 +216,42 @@
   },
   "active": "67d304875a8617cc",
   "lastOpenFiles": [
+    "Parciales/Primer Parcial/2025-Q1/EJ5.md",
+    "Parciales/Primer Parcial/2025-Q2/EJ5.md",
+    "Parciales/Primer Parcial/2025-Q1/Images/EJ5.png",
+    "Parciales/Primer Parcial/2025-Q1/Images",
+    "Parciales/Primer Parcial/2023-Q1/EJ5.md",
+    "Terminos/Intercambios de Claves/Intercambio Diffie-Hellman.md",
+    "Parciales/Primer Parcial/2025-Q1",
+    "Parciales/Primer Parcial/2023-Q1/Images/EJ5.png",
+    "Parciales/Primer Parcial/2023-Q1/EJ3.md",
+    "Parciales/Primer Parcial/2023-Q1/Images/EJ3.png",
+    "Parciales/Primer Parcial/2023-Q1/Images/EJ2.png",
+    "Parciales/Primer Parcial/2023-Q1/EJ2.md",
+    "Parciales/Primer Parcial/2023-Q1/EJ1.md",
+    "Parciales/Primer Parcial/2023-Q1/Images/EJ1.png",
+    "Parciales/Primer Parcial/2023-Q1/Images",
+    "Parciales/Primer Parcial/2023-Q1",
+    "Parciales/Primer Parcial/2025-Q2/EJ3.md",
+    "Parciales/Primer Parcial/2025-Q2/EJ1.md",
+    "Clases/Clase 05 - Protocolos.pdf",
+    "Terminos/Criptosistemas/Textbook RSA.md",
     "Terminos/Criptosistemas/Por Rotación.md",
     "Terminos/Criptosistemas/Counter (CTR).md",
     "Terminos/Criptosistemas/CFB.md",
     "Terminos/Criptosistemas/CBC.md",
     "Terminos/Criptosistemas/OFB.md",
-    "Terminos/Criptosistemas/Textbook RSA.md",
-    "Parciales/Primer Parcial/2025-Q2/EJ3.md",
     "Terminos/Pruebas de Indistinguibilidad/Chosen Plain Text indistinguishability.md",
     "Parciales/Primer Parcial/2025-Q2/EJ2.md",
-    "Parciales/Primer Parcial/2025-Q2/EJ1.md",
     "Guías/Guía 3/EJ1.md",
     "Terminos/Construcciones de MAC/CBC-MAC.md",
     "Terminos/Construcciones de MAC/HMAC.md",
-    "Terminos/Intercambios de Claves/Intercambio Diffie-Hellman.md",
     "Clases/Clase 04 - Criptografia - Cifrado asimetrico y firma digital.pdf",
     "Terminos/Intercambio de Claves.md",
     "Terminos/Criptosistemas/Elgamal.md",
     "Terminos/Message Authentication Code.md",
     "Terminos/Firma Digital.md",
     "Terminos/Criptosistema Asimétrico.md",
-    "Terminos/Criptosistema.md",
-    "Terminos/Firmas Digitales/RSA-Signature.md",
-    "Terminos/Firmas Digitales/Hashed RSA.md",
-    "Terminos/Firmas Digitales/Digital Signature Standard.md",
-    "Terminos/Key Distribution Centers.md",
-    "Terminos/Principios de Kerchoffs.md",
-    "Terminos/Seguridad Computacional.md",
-    "Clases/Clase 05 - Protocolos.pdf",
     "Clases/Clase 03 - Criptografia - MACs y Cifrado Autenticado.pdf",
     "Clases/Clase 02 - Criptografia - Cifrado - 1ra parte.pdf",
     "Parciales/Primer Parcial/2025-Q2/Imgs/EJ1.png",
@@ -252,11 +260,6 @@
     "Parciales/Primer Parcial/2025-Q2/Imgs/EJ3.png",
     "Parciales/Primer Parcial/2025-Q2/Imgs/EJ2.png",
     "Terminos/Pruebas de Seguridad",
-    "Terminos/Pruebas de Libertad de Colisiones",
-    "Terminos/Pruebas de Infalsificabilidad",
-    "Terminos/Intercambios de Claves",
-    "Terminos/Funciones de Hash",
-    "Terminos/Firmas Digitales",
-    "Pasted image 20260326190059.png"
+    "Terminos/Pruebas de Libertad de Colisiones"
   ]
 }

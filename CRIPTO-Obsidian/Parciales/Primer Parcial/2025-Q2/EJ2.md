@@ -1,4 +1,4 @@
-![[EJ2.png|602]]
+![[Parciales/Primer Parcial/2025-Q2/Imgs/EJ2.png|602]]
 
 ```
 GWAOESFENITLAGEUGEDRVPHJVCDFDR
