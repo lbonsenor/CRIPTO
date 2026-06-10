@@ -1,0 +1,1 @@
+Las reglas poseen un orden, y la primera que hace match se aplica

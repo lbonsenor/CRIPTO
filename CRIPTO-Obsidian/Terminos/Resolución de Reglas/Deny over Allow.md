@@ -1,0 +1,1 @@
+Cualquier reglas que deniegue explícitamente algo tiene precedencia sobre las reglas que lo permiten 

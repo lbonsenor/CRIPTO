@@ -13,42 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parciales/Primer Parcial/2025-Q2/EJ5.md",
+                "file": "Terminos/Resolución de Reglas/Deny over Allow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EJ5"
-            }
-          }
-        ]
-      },
-      {
-        "id": "842014b0b642b78d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1b3cc4f01aa3b624",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Clases/Clase 02 - Criptografia - Cifrado - 1ra parte.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Clase 02 - Criptografia - Cifrado - 1ra parte"
+              "title": "Deny over Allow"
             }
           },
           {
-            "id": "45a2eb5e1df4d9ab",
+            "id": "ccb5d0046b2c0c33",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Clases/Clase 04 - Criptografia - Cifrado asimetrico y firma digital.pdf"
+                "file": "Terminos/Controles de Acceso/Zero-Trust.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Clase 04 - Criptografia - Cifrado asimetrico y firma digital"
+              "icon": "lucide-file",
+              "title": "Zero-Trust"
             }
           }
         ],
@@ -214,52 +198,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "67d304875a8617cc",
+  "active": "ccb5d0046b2c0c33",
   "lastOpenFiles": [
-    "Parciales/Primer Parcial/2025-Q1/EJ5.md",
-    "Parciales/Primer Parcial/2025-Q2/EJ5.md",
+    "Terminos/Resolución de Reglas/Resolución de Reglas.md",
+    "Terminos/OAuth/OAuth 2.0 - Token Refresh.md",
+    "Terminos/OAuth/OAuth 2.0 - Scope.md",
+    "Terminos/OAuth/OAuth 2.0.md",
+    "Terminos/Ejemplos de Control de Acceso/Windows File System.md",
+    "Terminos/Ejemplos de Control de Acceso/Unix File System.md",
+    "Terminos/Ejemplos de Control de Acceso/Squid Web Proxy.md",
+    "Terminos/Ejemplos de Control de Acceso/SELinux.md",
+    "Terminos/Ejemplos de Control de Acceso/PostgreSQL - Roles.md",
+    "Terminos/Ejemplos de Control de Acceso/PostgreSQL - Policies.md",
+    "Terminos/Ejemplos de Control de Acceso/Blacklist.md",
+    "Terminos/Ejemplos de Control de Acceso/AWS IAM.md",
+    "Terminos/Ejemplos de Control de Acceso/API Gateway.md",
+    "Terminos/Controles de Acceso/Zero-Trust.md",
+    "Terminos/Controles de Acceso/RuBAC.md",
+    "Terminos/Controles de Acceso/Rego.md",
+    "Terminos/Controles de Acceso/Reglas basadas en Contexto.md",
+    "Terminos/Controles de Acceso/RBAC.md",
+    "Terminos/Controles de Acceso/Open Policy Agent.md",
+    "Terminos/Controles de Acceso/Mandatory Access Control.md",
+    "Terminos/Controles de Acceso/Discretionary Access Control.md",
+    "Terminos/Controles de Acceso/Control por Extensión.md",
+    "Terminos/Controles de Acceso/Control por Comprensión.md",
+    "Terminos/Controles de Acceso/ABAC.md",
+    "Terminos/OAuth",
+    "Terminos/Ejemplos de Control de Acceso",
+    "Clases/Clase 07 - Autenticación.pdf",
+    "Clases/Clase 06 - Politicas y Control de acceso.pdf",
+    "Terminos/Resolución de Reglas/Deny over Allow.md",
+    "Terminos/Resolución de Reglas/Best Match.md",
+    "Terminos/Resolución de Reglas",
+    "Pasted image 20260610021317.png",
+    "Pasted image 20260610021100.png",
+    "Terminos/Controles de Acceso",
+    "Terminos/Modelos de Seguridad",
+    "Terminos/La Triada",
+    "Clases/Clase 05 - Protocolos.pdf",
+    "Clases/Clase 08 - Principios de Diseño de Seguridad y Vulnerabilidades.pdf",
     "Parciales/Primer Parcial/2025-Q1/Images/EJ5.png",
-    "Parciales/Primer Parcial/2025-Q1/Images",
-    "Parciales/Primer Parcial/2023-Q1/EJ5.md",
-    "Terminos/Intercambios de Claves/Intercambio Diffie-Hellman.md",
-    "Parciales/Primer Parcial/2025-Q1",
     "Parciales/Primer Parcial/2023-Q1/Images/EJ5.png",
-    "Parciales/Primer Parcial/2023-Q1/EJ3.md",
     "Parciales/Primer Parcial/2023-Q1/Images/EJ3.png",
     "Parciales/Primer Parcial/2023-Q1/Images/EJ2.png",
-    "Parciales/Primer Parcial/2023-Q1/EJ2.md",
-    "Parciales/Primer Parcial/2023-Q1/EJ1.md",
     "Parciales/Primer Parcial/2023-Q1/Images/EJ1.png",
-    "Parciales/Primer Parcial/2023-Q1/Images",
-    "Parciales/Primer Parcial/2023-Q1",
-    "Parciales/Primer Parcial/2025-Q2/EJ3.md",
-    "Parciales/Primer Parcial/2025-Q2/EJ1.md",
-    "Clases/Clase 05 - Protocolos.pdf",
-    "Terminos/Criptosistemas/Textbook RSA.md",
-    "Terminos/Criptosistemas/Por Rotación.md",
-    "Terminos/Criptosistemas/Counter (CTR).md",
-    "Terminos/Criptosistemas/CFB.md",
-    "Terminos/Criptosistemas/CBC.md",
-    "Terminos/Criptosistemas/OFB.md",
-    "Terminos/Pruebas de Indistinguibilidad/Chosen Plain Text indistinguishability.md",
-    "Parciales/Primer Parcial/2025-Q2/EJ2.md",
-    "Guías/Guía 3/EJ1.md",
-    "Terminos/Construcciones de MAC/CBC-MAC.md",
-    "Terminos/Construcciones de MAC/HMAC.md",
-    "Clases/Clase 04 - Criptografia - Cifrado asimetrico y firma digital.pdf",
-    "Terminos/Intercambio de Claves.md",
-    "Terminos/Criptosistemas/Elgamal.md",
-    "Terminos/Message Authentication Code.md",
-    "Terminos/Firma Digital.md",
-    "Terminos/Criptosistema Asimétrico.md",
-    "Clases/Clase 03 - Criptografia - MACs y Cifrado Autenticado.pdf",
-    "Clases/Clase 02 - Criptografia - Cifrado - 1ra parte.pdf",
     "Parciales/Primer Parcial/2025-Q2/Imgs/EJ1.png",
     "Parciales/Primer Parcial/2025-Q2/Imgs/EJ5.png",
-    "Parciales/Primer Parcial/2025-Q2/Imgs/EJ4.png",
-    "Parciales/Primer Parcial/2025-Q2/Imgs/EJ3.png",
-    "Parciales/Primer Parcial/2025-Q2/Imgs/EJ2.png",
-    "Terminos/Pruebas de Seguridad",
-    "Terminos/Pruebas de Libertad de Colisiones"
+    "Parciales/Primer Parcial/2025-Q2/Imgs/EJ4.png"
   ]
 }

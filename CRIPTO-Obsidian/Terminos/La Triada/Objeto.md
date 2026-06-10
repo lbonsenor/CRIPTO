@@ -1,0 +1,1 @@
+Recurso (Dato, Servicio) que puede ser accedido para ser leído, modificado o accionado por un sujeto. 

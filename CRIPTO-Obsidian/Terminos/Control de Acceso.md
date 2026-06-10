@@ -1,0 +1,1 @@
+El control de acceso es un mecanismo de seguridad que regula quién puede acceder a qué recursos de la aplicación y bajo qué condiciones. 

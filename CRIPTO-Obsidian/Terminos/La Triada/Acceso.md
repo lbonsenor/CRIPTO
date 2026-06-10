@@ -1,0 +1,1 @@
+Formas de interacción entre un [[Sujeto]] y los [[Objeto|Objetos]].

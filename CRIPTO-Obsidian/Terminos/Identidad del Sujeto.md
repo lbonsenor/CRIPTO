@@ -1,0 +1,1 @@
+Lo que identifica unívocamente al sujeto dentro del universo de posibles sujetos. Es un requerimiento para la autenticación. 
