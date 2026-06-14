@@ -1,4 +1,4 @@
-![[Parciales/Primer Parcial/2025-Q1/Images/EJ5.png]]
+![[1-2025-Q1-EJ5.png]]
 
 a) Verdadero
 

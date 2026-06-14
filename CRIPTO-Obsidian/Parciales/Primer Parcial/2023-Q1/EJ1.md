@@ -1,4 +1,4 @@
-![[Parciales/Primer Parcial/2023-Q1/Images/EJ1.png]]
+![[1-2023-Q1-EJ1.png]]
 
 a)
 Es un **protocolo de establecimiento de claves y autenticación** (Key Exchange and Authentication Protocol).

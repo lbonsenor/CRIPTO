@@ -1,4 +1,4 @@
-![[Parciales/Primer Parcial/2023-Q1/Images/EJ5.png]]
+![[1-2023-Q1-EJ5.png]]
 
 a) Para proveer privacidad e integridad, lo correcto es utilizar el esquema **Encrypt-then-MAC**: primero cifrar m con k1​ para obtener c, y luego calcular el MAC de c con k2​ para obtener t. Tanto **c** como t se deben transmitir en forma conjunta. Las claves k1​ y k2​ **deben ser diferentes**.
 

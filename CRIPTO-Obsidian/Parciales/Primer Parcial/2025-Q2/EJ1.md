@@ -1,4 +1,4 @@
-![[Parciales/Primer Parcial/2025-Q2/Imgs/EJ1.png]]
+![[1-2025-Q1-EJ1.png]]
 a) Tipo de protocolo y objetivo
 
 Este **no es un protocolo de intercambio de claves**, porque:
