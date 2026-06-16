@@ -11,32 +11,15 @@
             "id": "285ead9cb1803b24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Parciales/Segundo Parcial/2025-Q2/EJ1.md",
-                "mode": "source",
-                "source": false
+                "file": "Parciales/Imgs/2025-Q1-2R-EJ4.png"
               },
-              "icon": "lucide-file",
-              "title": "EJ1"
-            }
-          },
-          {
-            "id": "67d304875a8617cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parciales/Segundo Parcial/2025-Q2/EJ5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EJ5"
+              "icon": "lucide-image",
+              "title": "2025-Q1-2R-EJ4"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "959ad9945ed14c2d",
@@ -216,11 +199,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "67d304875a8617cc",
+  "active": "3e56f72ae7a0ea75",
   "lastOpenFiles": [
+    "Parciales/Imgs/2025-Q1-2R-EJ3.png",
+    "Parciales/Imgs/2025-Q1-2R-EJ2.png",
+    "Parciales/Segundo Parcial/2025-Q1-2R/EJ4.md",
+    "Parciales/Segundo Parcial/2025-Q1-2R/EJ3.md",
+    "Parciales/Segundo Parcial/2025-Q1-2R/EJ2.md",
+    "Terminos/Criptosistemas/OTP.md",
+    "Parciales/Imgs/2025-Q1-2R-EJ4.png",
+    "Parciales/Segundo Parcial/2025-Q1-2R/Recup.2025Q1.2.pdf",
+    "Parciales/Segundo Parcial/2025-Q2/EJ1.md",
+    "Parciales/Imgs/Terminos/Criptosistemas/One Time Pad/Definición.md",
+    "Parciales/Imgs/Terminos/Criptosistemas/One Time Pad",
+    "Parciales/Imgs/Terminos/Criptosistemas",
+    "Parciales/Imgs/Terminos",
+    "Parciales/Segundo Parcial/2025-Q2/EJ5.md",
     "Parciales/Segundo Parcial/2025-Q2/EJ3.md",
     "Parciales/Segundo Parcial/2025-Q2/EJ2.md",
-    "Parciales/Segundo Parcial/2025-Q2/EJ5.md",
     "Terminos/Ejemplos de Control de Acceso/AWS IAM.md",
     "Terminos/Ejemplos de Control de Acceso/API Gateway.md",
     "Terminos/Controles de Acceso/Reglas basadas en Contexto.md",
@@ -238,31 +234,17 @@
     "Terminos/Vulnerabilidades/MITRE CVE.md",
     "Terminos/Vulnerabilidades/CVE-2021-44228.md",
     "Terminos/Vulnerabilidades/CWE/CWE.md",
-    "Terminos/Vulnerabilidades/CWE/CWE-79 - XSS.md",
-    "Terminos/Vulnerabilidades/CWE/CWE-787 - Buffer Overflow.md",
-    "Terminos/Seguridad en la Empresa/DevSecOps/DevSecOps.md",
-    "Terminos/Seguridad en la Empresa/Gobernanza.md",
-    "Terminos/La Triada/La triada.md",
-    "Terminos/Seguridad en la Empresa/Políticas de Seguridad.md",
-    "Parciales/Segundo Parcial/2025-Q2/EJ1.md",
     "Parciales/Imgs/2-2025-Q2-EJ5.png",
     "Parciales/Imgs/2-2025-Q2-EJ3.png",
     "Parciales/Imgs/2-2025-Q2-EJ2.png",
     "Parciales/Imgs/2-2025-Q2-EJ1.png",
     "Parciales/Segundo Parcial/2025-Q1-2/Parcial.2025Q1.2.pdf",
-    "Parciales/Segundo Parcial/2025-Q1-2R/Recup.2025Q1.2.pdf",
     "Parciales/Imgs/2-2025-Q1-2-EJ5.png",
     "Parciales/Imgs/2-2025-Q1-2-EJ3.png",
     "Terminos/Protección de Datos/Regulaciones",
     "Terminos/Protección de Datos/Operación",
     "Terminos/Protección de Datos/Cifrado",
     "Terminos/Protección de Datos",
-    "Parciales/Imgs/2-2025-Q1-2-EJ2.png",
-    "Parciales/Imgs/1-2025-Q2-EJ5.png",
-    "Parciales/Imgs/1-2025-Q1-EJ5.png",
-    "Parciales/Imgs/1-2023-Q1-EJ5.png",
-    "Parciales/Imgs",
-    "Parciales/Segundo Parcial/2025-Q2",
-    "Parciales/Segundo Parcial/2025-Q1-2R"
+    "Parciales/Imgs/2-2025-Q1-2-EJ2.png"
   ]
 }
