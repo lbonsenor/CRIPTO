@@ -11,29 +11,32 @@
             "id": "285ead9cb1803b24",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Parciales/Imgs/2-2025-Q1-2R-EJ4.png"
-              },
-              "icon": "lucide-image",
-              "title": "2-2025-Q1-2R-EJ4"
-            }
-          },
-          {
-            "id": "ba0b49ebb194ea0e",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Parciales/Imgs/Terminos/Flujo de Información/Entropía como Medida de Información.md",
+                "file": "Parciales/Segundo Parcial/2025-Q2/EJ1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entropía como Medida de Información"
+              "title": "EJ1"
+            }
+          },
+          {
+            "id": "67d304875a8617cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parciales/Segundo Parcial/2025-Q2/EJ5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EJ5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "959ad9945ed14c2d",
@@ -83,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sha256",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,52 +216,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "285ead9cb1803b24",
+  "active": "67d304875a8617cc",
   "lastOpenFiles": [
-    "Parciales/Imgs/2-2025-Q1-2R-EJ3.png",
-    "Parciales/Imgs/2-2025-Q1-2R-EJ2.png",
-    "Parciales/Segundo Parcial/2025-Q1-2R/EJ4.md",
-    "Parciales/Imgs/Terminos/Funciones de Hash/SHA-1.md",
-    "Parciales/Imgs/Terminos/Autenticación/Fórmula de Anderson.md",
-    "Parciales/Imgs/2-2025-Q1-2R-EJ4.png",
-    "Parciales/Segundo Parcial/2025-Q1-2R/Recup.2025Q1.2.pdf",
-    "Parciales/Segundo Parcial/2025-Q2/Parcial.2025Q2.2.pdf",
-    "Parciales/Segundo Parcial/2025-Q1-2R/EJ3.md",
-    "Parciales/Imgs/Terminos/Flujo de Información/Entropía como Medida de Información.md",
-    "Parciales/Imgs/Terminos/Flujo de Información/Flujo de Información.md",
-    "Parciales/Segundo Parcial/2025-Q1-2R/EJ2.md",
-    "Parciales/Imgs/Terminos/Controles de Acceso/Mandatory Access Control.md",
-    "Parciales/Segundo Parcial/2025-Q2/EJ2.md",
-    "Parciales/Segundo Parcial/2025-Q2/EJ1.md",
-    "Parciales/Imgs/Terminos/Seguridad en la Empresa/Evaluaciones/Red Blue Purple Team.md",
-    "Parciales/Imgs/Terminos/Seguridad en la Empresa/Evaluaciones/Breach and Attack Simulation.md",
-    "Parciales/Imgs/Terminos/Seguridad en la Empresa/Nube/CIEM.md",
-    "Parciales/Imgs/Terminos/Seguridad en la Empresa/Nube/CNAPP.md",
-    "Parciales/Imgs/Terminos/Seguridad en la Empresa/Nube/CSPM.md",
-    "Parciales/Imgs/Terminos/Seguridad en la Empresa/Nube/CWPP.md",
-    "Parciales/Imgs/Terminos/Seguridad en la Empresa/Nube",
-    "Parciales/Imgs/Terminos/Seguridad en la Empresa/Evaluaciones/Evaluaciones de Seguridad.md",
-    "Parciales/Imgs/Terminos/Seguridad en la Empresa/Evaluaciones",
-    "Parciales/Imgs/Terminos/Seguridad en la Empresa/DevSecOps/DevSecOps.md",
-    "Firewall.md",
-    "Parciales/Segundo Parcial/2025-Q2/EJ5.md",
     "Parciales/Segundo Parcial/2025-Q2/EJ3.md",
-    "Parciales/Imgs/Terminos/Ejemplos de Control de Acceso/AWS IAM.md",
-    "Parciales/Imgs/Terminos/Ejemplos de Control de Acceso/API Gateway.md",
-    "Parciales/Imgs/Terminos/Controles de Acceso/Reglas basadas en Contexto.md",
-    "Parciales/Imgs/Terminos/Controles de Acceso/Rego.md",
+    "Parciales/Segundo Parcial/2025-Q2/EJ2.md",
+    "Parciales/Segundo Parcial/2025-Q2/EJ5.md",
+    "Terminos/Ejemplos de Control de Acceso/AWS IAM.md",
+    "Terminos/Ejemplos de Control de Acceso/API Gateway.md",
+    "Terminos/Controles de Acceso/Reglas basadas en Contexto.md",
+    "Terminos/Controles de Acceso/Rego.md",
+    "Terminos/Controles de Acceso/Zero-Trust.md",
+    "Terminos/Controles de Acceso/RuBAC.md",
+    "Terminos/Controles de Acceso/Control por Comprensión.md",
+    "Terminos/Controles de Acceso/ABAC.md",
+    "Terminos/Controles de Acceso/RBAC.md",
+    "Parciales/Segundo Parcial/2025-Q2/Parcial.2025Q2.2.pdf",
+    "Terminos/Controles de Acceso/Mandatory Access Control.md",
+    "Terminos/Claves/Salting.md",
+    "Terminos/Claves/Expiración de Claves.md",
+    "Terminos/Claves/Claves.md",
+    "Terminos/Vulnerabilidades/MITRE CVE.md",
+    "Terminos/Vulnerabilidades/CVE-2021-44228.md",
+    "Terminos/Vulnerabilidades/CWE/CWE.md",
+    "Terminos/Vulnerabilidades/CWE/CWE-79 - XSS.md",
+    "Terminos/Vulnerabilidades/CWE/CWE-787 - Buffer Overflow.md",
+    "Terminos/Seguridad en la Empresa/DevSecOps/DevSecOps.md",
+    "Terminos/Seguridad en la Empresa/Gobernanza.md",
+    "Terminos/La Triada/La triada.md",
+    "Terminos/Seguridad en la Empresa/Políticas de Seguridad.md",
+    "Parciales/Segundo Parcial/2025-Q2/EJ1.md",
     "Parciales/Imgs/2-2025-Q2-EJ5.png",
     "Parciales/Imgs/2-2025-Q2-EJ3.png",
     "Parciales/Imgs/2-2025-Q2-EJ2.png",
     "Parciales/Imgs/2-2025-Q2-EJ1.png",
     "Parciales/Segundo Parcial/2025-Q1-2/Parcial.2025Q1.2.pdf",
+    "Parciales/Segundo Parcial/2025-Q1-2R/Recup.2025Q1.2.pdf",
     "Parciales/Imgs/2-2025-Q1-2-EJ5.png",
     "Parciales/Imgs/2-2025-Q1-2-EJ3.png",
-    "Parciales/Imgs/Terminos/Protección de Datos/Regulaciones",
-    "Parciales/Imgs/Terminos/Protección de Datos/Operación",
-    "Parciales/Imgs/Terminos/Protección de Datos/Cifrado",
-    "Parciales/Imgs/Terminos/Protección de Datos",
+    "Terminos/Protección de Datos/Regulaciones",
+    "Terminos/Protección de Datos/Operación",
+    "Terminos/Protección de Datos/Cifrado",
+    "Terminos/Protección de Datos",
     "Parciales/Imgs/2-2025-Q1-2-EJ2.png",
-    "Parciales/Imgs"
+    "Parciales/Imgs/1-2025-Q2-EJ5.png",
+    "Parciales/Imgs/1-2025-Q1-EJ5.png",
+    "Parciales/Imgs/1-2023-Q1-EJ5.png",
+    "Parciales/Imgs",
+    "Parciales/Segundo Parcial/2025-Q2",
+    "Parciales/Segundo Parcial/2025-Q1-2R"
   ]
 }
