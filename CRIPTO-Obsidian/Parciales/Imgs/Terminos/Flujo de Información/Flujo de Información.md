@@ -28,7 +28,7 @@ Si se pudiera confinar el flujo de información dentro de un ambiente controlado
 | Compilación | Análisis estático, entropía | Analiza el código fuente directamente |
 | Ejecución | Sandboxing, virtualización | Controla las interacciones del proceso |
 
-Ver: [[Control de Flujo]]
+Ver: [[Control de Flujo de Información]]
 
 ## Relación con otros conceptos
 
