@@ -1,5 +1,4 @@
-**CWE-79** (_Improper Neutralization of Input During Web Page Generation_) es la inyección de código malicioso en un link o requerimiento que termina siendo **ejecutado por el navegador de la víctima**.
-
+**CWE-79** (_Improper Neutralization of Input During Web Page Generation_) es la inyección de código malicioso en un link o requerimiento que termina siendo **ejecutado por el navegador de la víctima**
 ## Descripción
 
 La aplicación web incluye input del usuario en la respuesta HTML sin sanitizarlo correctamente. El navegador de la víctima interpreta ese input como código JavaScript y lo ejecuta en el contexto del sitio vulnerable.

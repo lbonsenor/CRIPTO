@@ -1,4 +1,4 @@
-**Attribute-Based Access Control (ABAC)** es una variante del [[Control por Comprensión]] donde los permisos se definen en función de **atributos** del sujeto, el objeto, o el entorno.
+****Attribute-Based Access Control (ABAC)** es una variante del [[Control por Comprensión]] donde los permisos se definen en función de **atributos** del sujeto, el objeto, o el entorno.
 
 ## Características
 

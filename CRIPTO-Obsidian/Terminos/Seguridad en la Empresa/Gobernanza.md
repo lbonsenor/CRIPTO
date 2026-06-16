@@ -1,7 +1,6 @@
 La **gobernanza de seguridad** (_Security Governance_) es el conjunto de procesos, políticas y controles implementados para **gestionar y mitigar riesgos** en la organización, estableciendo responsabilidades y roles para garantizar la protección de la información.
 
 ## Importancia
-
 - Asegura la confidencialidad, integridad y disponibilidad de la información ([[La triada]]).
 - Protege contra amenazas cibernéticas y violaciones de seguridad.
 - Fomenta la confianza de clientes y stakeholders.
@@ -25,7 +24,7 @@ La **gobernanza de seguridad** (_Security Governance_) es el conjunto de proceso
 
 ## Estrategias
 
-| Estrategia | Archivo |
-|---|---|
-| Defense-in-Depth aplicado a la empresa | [[Defense in Depth]] |
-| Zero Trust Architecture | [[Zero Trust Architecture]] |
+| Estrategia                             | Archivo                     |
+| -------------------------------------- | --------------------------- |
+| Defense-in-Depth aplicado a la empresa | [[Defense in Depth]]        |
+| Zero Trust Architecture                | [[Zero Trust Architecture]] |

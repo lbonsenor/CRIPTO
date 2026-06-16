@@ -1,7 +1,6 @@
 El **control por comprensión** define, por medio de **reglas**, cómo los principales (sujetos) pueden accionar sobre los objetos.
 
 ## Características
-
 - Las reglas pueden definir acciones **permitidas** o **denegadas**.
 - Las reglas pueden almacenarse **centralizadamente** o definirse **junto con los objetos**.
 - Puede haber múltiples reglas que apliquen simultáneamente → se necesita una [[Resolución de Reglas]].
@@ -15,7 +14,6 @@ El **control por comprensión** define, por medio de **reglas**, cómo los princ
 | [[RuBAC]] | Control basado en **reglas** |
 
 ## Reglas contextuales
-
 El control por comprensión puede extenderse con [[Reglas basadas en Contexto]], incorporando datos dinámicos del entorno (hora, ubicación, estado del sujeto) en las decisiones de acceso.
 
 ## Relación con otros controles

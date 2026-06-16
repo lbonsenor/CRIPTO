@@ -19,7 +19,7 @@ https://cwe.mitre.org/top25/archive/2023/2023_top25_list.html
 
 | CWE | Nombre | Archivo |
 |---|---|---|
-| CWE-787 | Out-of-bounds Write (Buffer Overflow) | [[CWE-787 - Out-of-bounds Write]] |
+| CWE-787 | Out-of-bounds Write (Buffer Overflow) | [[CWE-787 - Buffer Overflow]] |
 | CWE-79 | Cross-Site Scripting (XSS) | [[CWE-79 - XSS]] |
 | CWE-89 | SQL Injection | [[CWE-89 - SQL Injection]] |
 | CWE-416 | Use After Free | [[CWE-416 - Use After Free]] |
