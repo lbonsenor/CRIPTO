@@ -92,8 +92,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,7 +201,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "64c089851941ed29",
+  "active": "3e56f72ae7a0ea75",
   "lastOpenFiles": [
     "Terminos/Protocolos/OTP - One Time Password.md",
     "Terminos/Claves/Claves.md",
@@ -223,7 +222,7 @@
     "Terminos/Modelos de Seguridad/Modelo Clark-Wilson.md",
     "Terminos/Modelos de Seguridad/Modelo Biba.md",
     "Terminos/Modelos de Seguridad/Modelo Bell-La Padula.md",
-    "Terminos/Log4Shell/SBOM.md",
+    "Terminos/Seguridad en la Empresa/SBOM.md",
     "Terminos/Flujo de Información/Entropía como Medida de Información.md",
     "Terminos/Flujo de Información/Covert Channel.md",
     "Parciales/Segundo Parcial/2025-Q2/Parcial.2025Q2.2.pdf",
