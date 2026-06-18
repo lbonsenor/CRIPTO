@@ -1,5 +1,3 @@
-# HSM — Hardware Security Module
-
 Un **HSM** (_Hardware Security Module_) es un dispositivo físico especializado en la **generación, almacenamiento y gestión segura de claves criptográficas** y en la ejecución de operaciones criptográficas.
 
 ## Función

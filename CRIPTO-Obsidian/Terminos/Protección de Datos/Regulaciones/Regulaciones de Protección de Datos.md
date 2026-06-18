@@ -1,5 +1,3 @@
-# Regulaciones de Protección de Datos
-
 Las regulaciones externas establecen estándares de protección de datos que las organizaciones **deben cumplir bajo pena de sanciones**. Definen qué datos proteger, cómo protegerlos, cuánto tiempo retenerlos y cómo responder ante incidentes.
 
 ## Regulaciones argentinas

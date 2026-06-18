@@ -1,7 +1,7 @@
 ![[2025-Q1-2R-EJ3.png]]
 **Conceptos:**
 - [[Entropía como Medida de Información]]
-- [[Parciales/Imgs/Terminos/Criptosistemas/One Time Pad/Definición|OTP]]
+- [[OTP]]
 
 $$H(X) = -\sum_{i} p(x_i) \cdot \log_2 p(x_i)$$
 Cadenas binarias de longitud 10. Supongamos que todos los mensajes posibles son equiprobables. La entropía del mensaje H(M) es:

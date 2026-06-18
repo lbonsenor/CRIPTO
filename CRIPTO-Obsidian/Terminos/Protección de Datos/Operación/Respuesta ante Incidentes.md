@@ -1,5 +1,3 @@
-# Respuesta ante Incidentes
-
 La **respuesta ante incidentes** (_incident response_) es el proceso estructurado para **detectar, contener, erradicar y recuperarse** de un incidente de seguridad que afecte la confidencialidad, integridad o disponibilidad de los datos.
 
 ## Fases del proceso

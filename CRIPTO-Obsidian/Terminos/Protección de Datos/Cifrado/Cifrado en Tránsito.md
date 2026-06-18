@@ -1,5 +1,3 @@
-# Cifrado en Tránsito
-
 El **cifrado en tránsito** (_encryption in-transit_) protege datos que se mueven activamente de una ubicación a otra, evitando su intercepción.
 
 Ver [[Estados de los Datos]] para el contexto general.

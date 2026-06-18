@@ -1,5 +1,3 @@
-# KEK-DEK
-
 El esquema **KEK-DEK** (_Key Encryption Key / Data Encryption Key_) es un patrón de gestión de claves utilizado para cifrar grandes volúmenes de datos de forma eficiente y segura.
 
 ## Problema que resuelve

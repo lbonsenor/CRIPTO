@@ -1,7 +1,6 @@
 Un **ataque de canal lateral** (_side-channel attack_) explota las **emisiones físicas y temporales** de un sistema para extraer información sensible, sin basarse en vulnerabilidades clásicas del software ni errores de autenticación.
 
 ## Principio
-
 En lugar de atacar el algoritmo matemático directamente, el atacante **observa efectos colaterales del hardware** durante su funcionamiento para inferir información interna (típicamente claves criptográficas).
 
 ## Vectores de ataque

@@ -1,5 +1,3 @@
-# HIPAA / PCI-DSS / SOX
-
 Regulaciones internacionales sectoriales. Ver [[Regulaciones de Protección de Datos]] para el contexto general.
 
 ---

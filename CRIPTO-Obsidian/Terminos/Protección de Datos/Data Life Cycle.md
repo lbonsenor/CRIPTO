@@ -1,5 +1,3 @@
-# Data Life Cycle
-
 El **ciclo de vida de los datos** describe las etapas por las que atraviesa la información desde su creación hasta su eliminación. Los controles de [[Data Governance]] deben aplicarse en **cada etapa** del ciclo.
 
 ## Etapas

@@ -1,5 +1,3 @@
-# DLP — Data Loss Prevention
-
 Las herramientas de **DLP** (_Data Loss Prevention_) ayudan en el proceso de clasificación, inventariado y **detección de información en todos sus estados** ([[Estados de los Datos]]).
 
 ## Características

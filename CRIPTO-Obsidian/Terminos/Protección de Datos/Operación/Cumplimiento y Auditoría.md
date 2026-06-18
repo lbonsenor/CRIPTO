@@ -1,5 +1,3 @@
-# Cumplimiento y Auditoría
-
 El **cumplimiento** (_compliance_) es la fase del ciclo de [[Data Governance]] que verifica que los controles implementados satisfacen los requisitos de las [[Regulaciones de Protección de Datos|regulaciones]] aplicables.
 
 ## Qué implica

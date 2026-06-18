@@ -1,5 +1,3 @@
-# Data Roles
-
 Los **data roles** definen las responsabilidades de las personas dentro de la organización respecto al uso y protección de los datos. Son un componente central de [[Data Governance]].
 
 ## Roles principales

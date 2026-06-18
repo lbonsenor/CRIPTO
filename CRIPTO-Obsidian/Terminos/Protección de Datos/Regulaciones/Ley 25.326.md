@@ -1,5 +1,3 @@
-# Ley 25.326 — Protección de Datos Personales
-
 La **Ley 25.326** es la regulación argentina de protección de datos personales. Establece los principios y obligaciones para el tratamiento de datos personales de ciudadanos argentinos.
 
 ## Alcance

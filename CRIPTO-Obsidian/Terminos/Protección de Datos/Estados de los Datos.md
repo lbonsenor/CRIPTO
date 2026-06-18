@@ -1,5 +1,3 @@
-# Estados de los Datos
-
 Los datos existen en tres estados distintos, cada uno con sus propios riesgos y mecanismos de protección.
 
 ## Los tres estados

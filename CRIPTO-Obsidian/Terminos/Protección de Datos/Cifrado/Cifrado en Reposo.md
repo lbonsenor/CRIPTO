@@ -1,5 +1,3 @@
-# Cifrado en Reposo
-
 El **cifrado en reposo** (_encryption at-rest_) protege datos almacenados en cualquier medio físico o virtual.
 
 Ver [[Estados de los Datos]] para el contexto general.

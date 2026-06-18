@@ -1,5 +1,3 @@
-# Homomorphic Encryption
-
 El **cifrado homomórfico** es un esquema de cifrado que permite realizar **operaciones sobre datos cifrados** sin necesidad de descifrarlos, obteniendo un resultado que, al descifrar, es equivalente a haber operado sobre los datos en claro.
 
 ## Propiedad formal

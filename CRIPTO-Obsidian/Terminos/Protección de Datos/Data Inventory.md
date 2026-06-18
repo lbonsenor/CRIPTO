@@ -1,5 +1,3 @@
-# Data Inventory
-
 El **data inventory** (inventario de datos) identifica y registra todos los **datos críticos** de la organización: su ubicación, uso, [[Clasificación de Datos|clasificación]] y los responsables ([[Data Roles]]).
 
 ## Función

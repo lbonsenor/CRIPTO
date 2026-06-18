@@ -1,5 +1,3 @@
-# Retención de Información
-
 La **retención de información** es el guardado de datos que ya no son necesarios para el negocio, pero que deben conservarse por razones **regulatorias, legales o de análisis forense**.
 
 ## Características

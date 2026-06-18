@@ -1,5 +1,3 @@
-# Clasificación de Datos
-
 La **clasificación de datos** es el proceso de identificar, categorizar y etiquetar los datos según su sensibilidad, para aplicar los controles de protección adecuados a cada categoría.
 
 ## Proceso

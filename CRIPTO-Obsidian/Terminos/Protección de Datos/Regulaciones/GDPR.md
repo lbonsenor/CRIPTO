@@ -1,5 +1,3 @@
-# GDPR — General Data Protection Regulation
-
 El **GDPR** (_General Data Protection Regulation_) es la regulación de la Unión Europea sobre protección de datos personales, aplicada desde **mayo de 2018**. Es considerada la regulación de privacidad más completa y estricta del mundo.
 
 ## Alcance

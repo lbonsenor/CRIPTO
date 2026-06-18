@@ -1,5 +1,3 @@
-# Cifrado en Memoria
-
 El **cifrado en memoria** protege datos que están siendo procesados activamente en RAM, mitigando el riesgo de acceso desde otros procesos o máquinas virtuales que comparten el mismo hardware físico.
 
 Ver [[Estados de los Datos]] para el contexto general.

@@ -1,5 +1,3 @@
-# Enforcement — Protección de Datos
-
 Los controles de **enforcement** garantizan que los datos no fluyan de manera no autorizada entre componentes del sistema. Se aplican en dos momentos distintos.
 
 ## Compiler-time (tiempo de compilación)

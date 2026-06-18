@@ -1,5 +1,3 @@
-# Data Labeling
-
 El **data labeling** es un modelo alternativo a [[Data Inventory|el inventario centralizado]] que busca **inventariar los datos dentro de los propios datos**, como metadata.
 
 ## Concepto

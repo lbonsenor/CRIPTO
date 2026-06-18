@@ -1,5 +1,3 @@
-# Data Governance
-
 **Data Governance** son todas las tareas realizadas para asegurar que los datos estén **seguros, privados e íntegros**, y que estén disponibles y puedan usarse.
 
 Incluye las medidas que deben tomar las **personas**, los **procesos** que deben seguir y la **tecnología** que los respalda — a lo largo del ciclo de vida completo de los datos.
