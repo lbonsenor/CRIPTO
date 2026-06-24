@@ -8,7 +8,7 @@ PBVRQ VICAD SKAÑS DETSJ PSIED BGGMP SLRPW RÑPWY EDSDE ÑDRDP CRCPQ MNPWK UBZVS
 - `HASE` aparece 2 veces separadas por 156 caracteres
 - `VSUE` aparece 2 veces separadas por 32 caracteres
 
-$MCD(32,72,104,156,156)=4$
+$MCD(32,72,104,156,256)=4$
 Reescribamos para que sea cada 4 caracteres
 
 ```

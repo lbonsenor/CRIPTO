@@ -1,5 +1,9 @@
 ![[1-2025-Q1-EJ3.png]]
 
+**Conceptos:**
+- [[Counter (CTR)]]
+- [[OFB]]
+- [[CBC]]
 Siempre que $E_{k}$ sea biyectiva, es posible
 
 En términos de error, si se corrompe un mensaje, se corrompen el resto de mensajes que quedan, idem en el caso de de-codificación

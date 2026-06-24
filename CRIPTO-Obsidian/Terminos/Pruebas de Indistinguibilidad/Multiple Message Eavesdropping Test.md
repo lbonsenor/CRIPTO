@@ -10,3 +10,10 @@ $P(Mul_{A,\Pi}=1)=0.5+\varepsilon\implies \Pi \text{ es indistinguible}$
 
 >[!info] Propiedad
 >No hay ninguna primitiva de cifrado que pase la prueba
+
+> [!example] Cifrado [[OTP]]
+> 1. $A$ genera $(\text{HOLA}, \text{CHAU})$ y $(\text{HOLA}, \text{HOLA})$
+> 2. Se genera una clave $k$
+> 3. Se genera $b=1$
+> 4. $A$ recibe $(\text{XYZ, XYZ})$
+> 5. Como son iguales, se que $b=1$, y siempre voy a atinar, por lo tanto no es indistinguible

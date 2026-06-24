@@ -1,5 +1,7 @@
 ![[1-2025-Q1-EJ2.png|602]]
 
+**Conceptos:**
+- [[Terminos/Criptosistemas/Vigenere/Definición|Vigenere]]
 ```
 GWAOESFENITLAGEUGEDRVPHJVCDFDR
 

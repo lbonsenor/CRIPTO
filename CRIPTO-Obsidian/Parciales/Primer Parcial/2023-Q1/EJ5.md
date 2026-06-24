@@ -1,5 +1,9 @@
 ![[1-2023-Q1-EJ5.png]]
 
+**Conceptos:**
+- [[Message Authentication Code]]
+- [[Funciones de Hash criptograficas]]
+- [[Intercambio Diffie-Hellman]]
 a) Para proveer privacidad e integridad, lo correcto es utilizar el esquema **Encrypt-then-MAC**: primero cifrar m con k1​ para obtener c, y luego calcular el MAC de c con k2​ para obtener t. Tanto **c** como t se deben transmitir en forma conjunta. Las claves k1​ y k2​ **deben ser diferentes**.
 
 b) La seguridad de las funciones de hash se establece por su nivel de resistencia a preimágenes, a **segundas preimágenes** y, fundamentalmente, a **colisiones** (donde es computacionalmente difícil hallar dos entradas distintas x1​=x2​ tales que h(x1​)=h(x2​)).

@@ -30,7 +30,6 @@ Si se superan estos umbrales, se bloquean nuevas conexiones del mismo origen.
 Los API Gateways frecuentemente validan tokens de [[OAuth 2.0]] como parte del control de acceso, verificando que el token sea válido y contenga los _scopes_ requeridos.
 
 ## Relación con otros conceptos
-
 - [[Mandatory Access Control]]: las reglas se aplican a todos los accesos.
 - [[RuBAC]]: el sistema de reglas es una implementación de control basado en reglas.
 - [[Reglas basadas en Contexto]]: rate limiting y bandwidth limiting.

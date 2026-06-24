@@ -11,3 +11,5 @@ $P(CCA_{A,\Pi}=1)< \frac{1}{2}+neg(n)\implies\Pi\text{ es indistinguible}$
 Un criptosistema CCA-Secure permite enviar información manteniendo confidencialidad e integridad, pero requiere que ambas partes conozcan la misma clave
 
 Como las claves no pueden transmitirse por un canal inseguro, se usa un canal seguro (trusted third party). Existe una clave por cada combinación, y cada parte debe administrar $n-1$ claves
+
+Todo sistema CCA-Secure es [[Chosen Plain Text indistinguishability|CPA-Secure]]

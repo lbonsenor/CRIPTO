@@ -1,4 +1,4 @@
-![[1-2025-Q1-EJ5.png]]
+![[2025-Q1-EJ5.png]]
 
 a) Verdadero
 

@@ -1,4 +1,6 @@
 ![[1-2025-Q1-EJ1.png]]
+**Conceptos:**
+- [[Challenge-Response]]
 a) Tipo de protocolo y objetivo
 
 Este **no es un protocolo de intercambio de claves**, porque:

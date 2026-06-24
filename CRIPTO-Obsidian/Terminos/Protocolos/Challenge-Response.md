@@ -12,7 +12,7 @@ La autenticación con claves simple requiere enviar la clave al servidor, lo que
 A                              B
 |── {pedido de autenticación} ──►|
 |◄────────── { r }  ─────────────|   ← Challenge (número aleatorio)
-|──────── f(k, r)  ──────────────►|   ← Response (función de la clave y el challenge)
+|──────── f(k, r)  ─────────────►|   ← Response (función de la clave y el challenge)
 ```
 
 - `k`: clave compartida entre A y B.

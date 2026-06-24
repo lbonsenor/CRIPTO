@@ -1,5 +1,7 @@
 ![[1-2023-Q1-EJ1.png]]
-
+**Conceptos:**
+- [[Certificado Digital]]
+- [[EKE]]
 a)
 Es un **protocolo de establecimiento de claves y autenticación** (Key Exchange and Authentication Protocol).
 
