@@ -1,4 +1,6 @@
 ![[2025-Q1-EJ1.png]]
+**Conceptos**
+- [[Intercambio Diffie-Hellman]]
 ### a) 
 Es un protocolo de **acuerdo o intercambio de claves** (_Key Exchange / Key Agreement_).
 

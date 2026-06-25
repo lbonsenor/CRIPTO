@@ -24,6 +24,8 @@ Con t sombras cualesquiera `(i_1, s_{i1}), ..., (i_t, s_{it})`:
 1. Interpolar el polinomio usando **interpolación de Lagrange**:
 $$P(x) = \sum_{j} s_{i_j} \cdot \prod_{k \neq j} \frac{x - i_k}{i_j - i_k} \pmod{p}$$
 2. Evaluar `P(0) = s` (el término independiente es el secreto)
+3. Por lo tanto, la interpolación queda así
+$$P(x)=\sum_{j}s_{i_{j}}\cdot \prod_{k\neq j} -\frac{i_{k}}{i_{j}-i_{k}}\pmod{p}$$
 ## Ejemplo (3,5) — 3 de 5
 Secreto: `s = 7`, primo: `p = 11`
 Polinomio: `P(x) = 5x² + 3x + 7 mod 11`
@@ -37,7 +39,13 @@ Polinomio: `P(x) = 5x² + 3x + 7 mod 11`
 |5|4|
 
 Con las sombras `(2,0), (3,6), (5,4)` se puede reconstruir el polinomio y obtener `P(0) = 7`.
-
+$$\begin{align}
+&0\cdot\left( -\frac{3}{2-3} \right)\cdot\left( -\frac{5}{2-5} \right) \\
++&6\cdot\left( -\frac{2}{3-2} \right)\cdot\left( -\frac{5}{3-5} \right) \\
++&4\cdot\left( -\frac{2}{5-2} \right)\cdot\left( -\frac{3}{3-5} \right) \\
+&\pmod{11} \\
+&=7
+\end{align}$$
 ## Propiedades
 
 - **Seguridad perfecta**: con menos de T sombras, no se obtiene información sobre el secreto

@@ -12,3 +12,9 @@ $\text{Dec}_{sk}(c)=c^d\pmod{n}$
 >- Si $e$ y $m$ son pequeños: $m^e < n$, y entonces se puede calcular el logaritmo
 >- Si dos pares de claves comparten el mismo n, es posible recuperar n (y luego la clave privada) 
 
+>[!example] Ejemplo
+>1. Elegimos $p=61, q=53$, $n=3233$
+>2. $\Phi(n)=(p-1)(q-1)=3120$. Elegimos $e=17$
+>3. ${17\cdot d}\equiv 1\pmod{3120}\implies d=2753$
+>4. $pk=(3233, 17)$
+>5. $sk=(2753,n)$
