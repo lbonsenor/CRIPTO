@@ -1,7 +1,7 @@
 Generación de Claves:
 - Se elige $p,q\in \mathbb{P}, n=p\cdot q$
 - $e\in(0,\Phi (n))\ |\ \text{mcd}(e, \Phi(n))=1$
-- Calcular $\frac{d}{e\cdot d}\equiv 1\pmod{\Phi(n)}$
+- Calcular ${e\cdot d}\equiv 1\pmod{\Phi(n)}$
 - $pk=(n,e)$
 - $sk=(n,d)$
 

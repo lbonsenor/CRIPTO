@@ -5,3 +5,9 @@ $$P(M=m|C=c)=P(M=m)$$
 > [!Warning] Paradoja del Secreto Perfecto:
 > Notar que $c=e_{k}(m)$, así que las variables aleatorias discretas $C$ y $E$ son dependientes. Sin embargo, la propiedad de secreto perfecto interpretada probabilísticamente dice que son V.A.D.s independientes.
 
+
+### Formas de ver si tiene secreto perfecto
+1. $P(M=m)=P(M=m|C=c)$
+2. $P(C=c)=P(C=c|M=m)$
+3. $P(C=c|M=m_{0})=P(C=c|M=m_{1})$
+4.  [[Eavesdropping Indistiguishability Test]]

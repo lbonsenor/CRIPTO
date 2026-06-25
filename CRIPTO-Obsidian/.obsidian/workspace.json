@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminos/Criptosistemas/Textbook RSA.md",
+                "file": "Guías/Guía 2/EJ1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Textbook RSA"
+              "title": "EJ1"
             }
           }
         ]
@@ -50,9 +50,23 @@
               "icon": "lucide-file-text",
               "title": "Guia 5"
             }
+          },
+          {
+            "id": "4d5597f0815718bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terminos/Secreto Perfecto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Secreto Perfecto"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,49 +230,49 @@
   },
   "active": "64c089851941ed29",
   "lastOpenFiles": [
-    "Terminos/Criptosistemas/Elgamal.md",
-    "Terminos/Criptosistemas/Textbook RSA.md",
-    "Guías/Guía 5/EJ16.md",
-    "Guías/Guía 5/EJ15.md",
-    "Guías/Guía 5/Guia 5.pdf",
-    "Guías/Guía 5/EJ13.md",
-    "Guías/Guía 5/EJ9.md",
-    "Guías/Guía 5/EJ8.md",
-    "Terminos/Firmas Digitales/Digital Signature Standard.md",
-    "Terminos/Firma Digital.md",
-    "Parciales/Primer Parcial/2025-Q1/EJ1.md",
-    "Parciales/Primer Parcial/2023-Q1/EJ5.md",
+    "Terminos/Secreto Perfecto.md",
+    "Guías/Guía 2/EJ1.md",
+    "Guías/Guía 2/Guia 2.pdf",
+    "Guías/Guía 2/EJ2.md",
+    "Guías/Guía 1/Guia 1 - Soluciones.pdf",
+    "Guías/Guía 1/EJ1.md",
+    "Terminos/Seguridad Computacional.md",
+    "Terminos/Criptosistemas/OTP.md",
+    "Terminos/Criptosistemas/Vigenere/Definición.md",
+    "Terminos/Criptosistemas/Vigenere/Ejercicio.md",
+    "Terminos/Criptosistemas/Por Sustitución/Definición.md",
+    "Terminos/Criptosistemas/Por Sustitución/Ejercicio.md",
+    "Terminos/Criptosistemas/Por Rotación.md",
+    "Terminos/Construcciones de MAC/CBC-MAC.md",
+    "Terminos/Construcciones de MAC/HMAC.md",
+    "Terminos/Protocolos/SSL.md",
+    "Terminos/Protocolos/TLS.md",
+    "Terminos/Primitivas de Cifrado/3-DES.md",
     "Parciales/Primer Parcial/2023-Q1/EJ3.md",
+    "Pasted image 20260624031709.png",
     "Parciales/Primer Parcial/2023-Q1/EJ2.md",
     "Parciales/Primer Parcial/2023-Q1/EJ1.md",
-    "Guías/Guía 3/EJ1.md",
+    "Terminos/Protocolos/EKE.md",
+    "Terminos/Protocolos/Challenge-Response.md",
+    "Parciales/Primer Parcial/2025-Q1/EJ1.md",
     "Terminos/Intercambios de Claves/Intercambio Diffie-Hellman.md",
-    "Clases/Clase 05 - Protocolos.pdf",
+    "Parciales/Primer Parcial/2023-Q1/EJ5.md",
+    "Parciales/Primer Parcial/2025-Q1/EJ5.md",
+    "Parciales/Primer Parcial/2025-Q1/EJ4.md",
     "Clases/Clase 04 - Criptografia - Cifrado asimetrico y firma digital.pdf",
-    "Parciales/Primer Parcial/2025-Q1-R/EJ1.md",
-    "Guías/Guía 5/EJ7.md",
-    "Guías/Guía 5/EJ6.md",
-    "Guías/Guía 5/EJ5.md",
-    "Guías/Guía 5/EJ4.md",
-    "Guías/Guía 5/EJ3.md",
-    "Terminos/Message Authentication Code.md",
-    "Terminos/Función de Descifrado.md",
-    "Terminos/Firmas Digitales/RSA-Signature.md",
-    "Terminos/Firmas Digitales/Hashed RSA.md",
+    "Clases/Clase 02 - Criptografia - Cifrado - 1ra parte.pdf",
+    "Clases/Clase 03 - Criptografia - MACs y Cifrado Autenticado.pdf",
+    "Guías/Guía 5/Guia 5.pdf",
+    "Clases/Clase 05 - Protocolos.pdf",
     "Guías/Guía 5/Guia 5 - Soluciones.pdf",
     "Guías/Guía 3/Guia 3 - Soluciones.pdf",
     "Guías/Guía 4/Guia 4.pdf",
-    "Pasted image 20260624031709.png",
     "Parciales/Imgs/2025-Q1-EJ1.png",
     "Parciales/Imgs/2025-Q1-EJ4.png",
     "Parciales/Imgs/2025-Q1-R-EJ1.png",
     "Parciales/Imgs/2025-Q1-R-EJ4.png",
     "Parciales/Imgs/2025-Q1-R-EJ3.png",
     "Parciales/Imgs/2025-Q1-R-EJ2.png",
-    "Parciales/Segundo Parcial/2023-Q1-1/Recup.2023Q1.2.pdf",
-    "Parciales/Primer Parcial/2025-Q1-R/EJ1",
-    "Parciales/Primer Parcial/2025-Q1-R",
-    "Guías/Guía 3/Guia 3.pdf",
     "Parciales/Imgs/2023-Q1-1-EJ3.png",
     "Parciales/Imgs/2023-Q1-1-EJ1.png",
     "Parciales/Imgs/2025-Q1-2R-EJ3.png"
