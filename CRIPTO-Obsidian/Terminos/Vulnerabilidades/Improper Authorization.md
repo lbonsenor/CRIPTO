@@ -1,0 +1,3 @@
+Categoría de vulnerabilidad, cercana a [[Broken Access Control]], donde el sistema autentica correctamente a un usuario pero no verifica adecuadamente qué acciones o recursos tiene permitido usar — permitiendo acceder a datos ajenos o a funciones administrativas sin el rol correspondiente.
+
+Se sospecha cuando existen distintos roles o recursos por usuario y el enunciado no menciona ninguna verificación de propiedad/rol a nivel de endpoint. La prueba típica consiste en cambiar identificadores de recursos en la URL o request (`/cliente/1/campo/1` → `/cliente/2/campo/1`) estando autenticado como un usuario sin permisos sobre ese recurso.

@@ -1,0 +1,3 @@
+Categoría de vulnerabilidad donde el mecanismo de autenticación es débil o directamente inexistente: contraseñas sin política mínima, ausencia de límite de intentos ([[Fuerza Bruta|fuerza bruta]] online viable), o falta de un segundo factor donde correspondería.
+
+Se sospecha cuando el enunciado describe un registro por usuario/contraseña sin mencionar política de contraseñas, [[Multi-Factor Authentication|MFA]] ni rate limiting — especialmente si hay incentivo económico para tomar control de cuentas ajenas. La prueba típica consiste en registrar contraseñas triviales y en intentar múltiples logins fallidos para verificar si hay bloqueo de cuenta.
