@@ -1,0 +1,3 @@
+Vulnerabilidad donde un sitio malicioso induce al navegador de la víctima a enviar una request no deseada a un sitio en el que la víctima ya tiene sesión iniciada, aprovechando que el navegador adjunta automáticamente las cookies de sesión a cualquier request hacia ese dominio.
+
+Se sospecha cuando la autenticación se basa en cookies (no en un token enviado explícitamente en un header, como un [[JWT - JSON Web Token]]) y existen acciones sensibles sin protección adicional (por ejemplo, un token anti-CSRF). La prueba típica es una página con un formulario o `<img>` apuntando a la acción sensible, que se dispara apenas la víctima la visita.

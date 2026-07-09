@@ -1,0 +1,3 @@
+"Number used once": valor que se usa una única vez dentro de un protocolo, con el objetivo de garantizar frescura (freshness) y prevenir [[Replay Attack|ataques de replay]]. No necesita ser secreto — puede viajar en claro — porque su seguridad depende de que nunca se reutilice, no de que sea impredecible para un atacante pasivo.
+
+Se usa típicamente en [[Challenge-Response]]: el servidor envía un nonce, el cliente calcula una función (por ejemplo un [[HMAC]]) sobre ese nonce usando un secreto, y el servidor invalida el nonce apenas lo recibe de vuelta, para que no pueda reutilizarse en un replay.

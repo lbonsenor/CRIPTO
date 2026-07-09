@@ -1,0 +1,3 @@
+Vulnerabilidad donde un atacante agota los recursos del sistema (CPU, memoria, conexiones) enviando requests, típicamente aprovechando una operación computacionalmente costosa expuesta sin restricciones (una consulta pesada a la base de datos, un cómputo criptográfico caro, etc.), dejando el servicio no disponible para usuarios legítimos.
+
+Se sospecha cuando el enunciado describe una consulta o cómputo costoso sin mencionar límites. La prueba concreta es enviar varias requests idénticas rápidamente y verificar si existe rate limiting. La mitigación estándar es justamente eso: limitar la tasa de requests por usuario/IP.

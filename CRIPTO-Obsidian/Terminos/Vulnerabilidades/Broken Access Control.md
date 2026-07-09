@@ -1,0 +1,3 @@
+Vulnerabilidad donde el sistema no verifica correctamente que un usuario autenticado tenga permiso sobre el recurso específico que está solicitando, permitiendo acceder o modificar recursos de otros usuarios simplemente cambiando un identificador (por ejemplo, un ID en la URL: `GET /api/recurso/{id_ajeno}`).
+
+Se relaciona directamente con un mal diseño de [[Control de Acceso]]: si el control se basa únicamente en "¿está autenticado?" y no en "¿tiene permiso sobre ESTE objeto?", cualquier esquema de [[RBAC]] o similar queda incompleto. La prueba concreta es interceptar una request con un proxy y modificar los IDs de recursos ajenos.

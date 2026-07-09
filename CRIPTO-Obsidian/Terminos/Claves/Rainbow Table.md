@@ -1,0 +1,3 @@
+Tabla precomputada que mapea hashes a sus posibles textos planos (contraseñas), permitiendo revertir un hash sin fuerza bruta en el momento del ataque. Funciona porque, sin variación adicional, el mismo texto plano siempre produce el mismo hash.
+
+Se neutraliza agregando [[Salting|salt]] único por usuario: el atacante ya no puede usar una tabla precomputada genérica, porque tendría que generar una tabla distinta por cada salt posible. Notar que el salt no necesita ser secreto — su función es evitar la reutilización de trabajo precomputado, no aportar entropía secreta contra fuerza bruta dirigida.

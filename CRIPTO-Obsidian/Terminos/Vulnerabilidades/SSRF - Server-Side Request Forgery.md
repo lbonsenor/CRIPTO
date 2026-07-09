@@ -1,0 +1,3 @@
+Vulnerabilidad donde el backend realiza requests HTTP a una URL que el atacante controla total o parcialmente (por ejemplo, un parámetro que indica "URL de la imagen a procesar"). El atacante la usa para forzar al servidor a hacer requests hacia recursos internos que normalmente no serían accesibles desde afuera, como `http://localhost:8080/admin` o metadatos de la nube.
+
+Se sospecha cuando el enunciado describe que "el backend hace requests a URLs externas" (webhooks, previews de links, procesamiento de imágenes remotas, integraciones). La prueba concreta consiste en reemplazar la URL esperada por una interna o local y observar si el servidor responde con contenido que no debería ser accesible.

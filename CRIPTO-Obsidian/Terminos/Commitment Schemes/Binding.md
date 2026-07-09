@@ -1,0 +1,3 @@
+Propiedad de un [[Commitment Scheme|esquema de compromiso]] que garantiza que quien se compromete (A) no puede cambiar el mensaje `m` después de haber enviado el commit, sin que B lo detecte.
+
+Depende de la resistencia a colisiones de la función usada (si es un hash, ver [[Funciones de Hash criptograficas]]) o de la no invertibilidad de un PRG (si el compromiso es de la forma `m ⊕ G(k)`). Un esquema donde A revela directamente un valor que puede recalcular libremente (por ejemplo revelar `r` en `c = m ⊕ r`) tiene Binding débil, porque A puede "despejar" un mensaje distinto que produzca el mismo `c`.

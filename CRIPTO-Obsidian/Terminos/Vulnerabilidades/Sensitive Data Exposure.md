@@ -1,0 +1,3 @@
+Vulnerabilidad donde datos sensibles (contraseñas, tarjetas, datos personales) quedan expuestos porque no están protegidos adecuadamente en algún estado de su ciclo de vida — ver [[Estados de los Datos]] — típicamente por no aplicar [[Cifrado en Reposo]], [[Cifrado en Tránsito]], o por incluirlos completos en respuestas de API que no los necesitan.
+
+Se sospecha cuando el enunciado menciona datos sensibles almacenados o "cifrado" sin dar detalles concretos del mecanismo. La prueba consiste en examinar las respuestas reales de la API (por ejemplo `GET /api/datos-sensibles`) para ver si vienen campos completos que deberían venir enmascarados o ausentes.

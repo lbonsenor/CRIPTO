@@ -1,0 +1,3 @@
+Función de hash lenta y adaptativa diseñada específicamente para almacenar contraseñas o PINs. Incluye [[Salting]] integrado y un "cost factor" configurable que permite aumentar el tiempo de cómputo por intento a medida que el hardware se vuelve más rápido, manteniendo la [[Fuerza Bruta|fuerza bruta]] offline inviable.
+
+Se prefiere sobre un hash rápido como SHA-256 cuando el espacio de mensajes es chico (PINs, contraseñas cortas), porque la lentitud del hash es lo único que hace inviable probar todas las combinaciones. Ver también [[Scrypt]] y [[PBKDF2]] como alternativas equivalentes en propósito.

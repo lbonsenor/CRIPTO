@@ -1,0 +1,3 @@
+Cifrado de flujo alternativo a [[AES]], diseñado para ser rápido en software sin aceleración por hardware (a diferencia de AES-NI). Igual que un cifrado de flujo clásico, ChaCha20 por sí solo **no da integridad** — solo confidencialidad —, por lo que en la práctica se combina con Poly1305 formando ChaCha20-Poly1305, un cifrado autenticado equivalente en propósito a [[GCM - Galois Counter Mode]].
+
+Requiere un nonce único por mensaje bajo la misma clave, igual que [[Counter (CTR)]] y [[GCM - Galois Counter Mode]]. Es común en TLS 1.3 como alternativa a AES-GCM en dispositivos sin aceleración por hardware.
