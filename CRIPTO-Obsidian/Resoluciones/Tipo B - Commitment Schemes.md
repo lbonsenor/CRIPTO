@@ -18,11 +18,11 @@ Ejemplos: hash commitment, XOR/PRG commitment, bingo, cartas, decisiones binaria
 
 ## Tabla de variantes
 
-| Esquema | Hiding | Binding | Problema / solución |
-|---|---|---|---|
-| `h(m)` con espacio grande | ✅ | ✅ (resistencia a colisiones) | Ninguno |
-| `h(m)` con espacio chico | ❌ Fuerza bruta | ✅ | Agregar nonce: `h(m \|\| r)` |
-| `c = m ⊕ r`, revelando `r` | ✅ (si r es aleatorio) | ❌ A elige `r' = c ⊕ m'` | Revelar `k` en vez de `r` |
-| `c = m ⊕ G(k)`, revelando `k` | ✅ | ✅ (no invertible) | Ninguno |
-| `h(Enc_k(m))`, B no conoce `k` | ✅ | ✅ | Ninguno |
-| `h(Enc_k(m))`, B conoce `k` | ❌ (calcula ambos lados) | ✅ | No dar `k` a B |
+| Esquema                        | Hiding                  | Binding                      | Problema / solución          |
+| ------------------------------ | ----------------------- | ---------------------------- | ---------------------------- |
+| `h(m)` con espacio grande      | ✅                       | ✅ (resistencia a colisiones) | Ninguno                      |
+| `h(m)` con espacio chico       | ❌ Fuerza bruta          | ✅                            | Agregar nonce: `h(m \|\| r)` |
+| `c = m ⊕ r`, revelando `r`     | ✅ (si r es aleatorio)   | ❌ A elige `r' = c ⊕ m'`      | Revelar `k` en vez de `r`    |
+| `c = m ⊕ G(k)`, revelando `k`  | ✅                       | ✅ (no invertible)            | Ninguno                      |
+| `h(Enc_k(m))`, B no conoce `k` | ✅                       | ✅                            | Ninguno                      |
+| `h(Enc_k(m))`, B conoce `k`    | ❌ (calcula ambos lados) | ✅                            | No dar `k` a B               |

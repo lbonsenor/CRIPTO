@@ -29,13 +29,13 @@ Ejercicios típicos: SSO, códigos QR, cámaras de seguridad, sensores en un ole
 
 ## Checklist de ataques comunes en protocolos
 
-| Si el protocolo tiene… | Buscar… | Solución |
-|---|---|---|
-| [[CBC]] o cifrado de flujo sin MAC | [[Bit-Flipping Attack]] | [[GCM - Galois Counter Mode|AES-GCM]] o agregar MAC con clave independiente |
-| Mensaje sin counter ni timestamp | [[Replay Attack]] | Agregar counter (sin reloj) o timestamp (con reloj, ver [[Denning-Sacco]]) |
-| Clave simétrica compartida con muchas partes | Compromiso de clave permite falsificar | Cambiar a [[Firma Digital]] (menor privilegio) |
-| MAC que no cubre todos los campos | Modificación de campos no protegidos | Incluir TODOS los campos dentro del MAC |
-| Token sin expiración | Token robado vale para siempre | Agregar timestamp + ventana de validez ([[Denning-Sacco]]) |
-| Token sin campo de destino | Token válido en cualquier servicio | Agregar campo servicio/destino al token |
-| Sin autenticación de origen | Suplantación / masquerading | [[Firma Digital]] |
-| Clave compartida entre dos partes con MAC | No hay no-repudio | Cambiar a [[Firma Digital]] |
+| Si el protocolo tiene…                       | Buscar…                                | Solución                                                                   |
+| -------------------------------------------- | -------------------------------------- | -------------------------------------------------------------------------- |
+| [[CBC]] o cifrado de flujo sin MAC           | [[Bit-Flipping Attack]]                | [[GCM - Galois Counter Mode]]  o agregar MAC con clave independiente       |
+| Mensaje sin counter ni timestamp             | [[Replay Attack]]                      | Agregar counter (sin reloj) o timestamp (con reloj, ver [[Denning-Sacco]]) |
+| Clave simétrica compartida con muchas partes | Compromiso de clave permite falsificar | Cambiar a [[Firma Digital]] (menor privilegio)                             |
+| MAC que no cubre todos los campos            | Modificación de campos no protegidos   | Incluir TODOS los campos dentro del MAC                                    |
+| Token sin expiración                         | Token robado vale para siempre         | Agregar timestamp + ventana de validez ([[Denning-Sacco]])                 |
+| Token sin campo de destino                   | Token válido en cualquier servicio     | Agregar campo servicio/destino al token                                    |
+| Sin autenticación de origen                  | Suplantación / masquerading            | [[Firma Digital]]                                                          |
+| Clave compartida entre dos partes con MAC    | No hay no-repudio                      | Cambiar a [[Firma Digital]]                                                |

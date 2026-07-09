@@ -68,10 +68,10 @@ Plantilla de redacción: *"El admin de [BD/red] ve [listar exactamente qué ve].
 
 ## Tabla de decisión: ¿qué mecanismo usar según el canal?
 
-| Canal seguro (HTTPS) | Canal NO seguro (HTTP) |
-|---|---|
-| Enviar `hash(PIN)` directamente | [[Challenge-Response]] con [[HMAC]] |
-| TLS protege en tránsito | El [[Nonce|nonce]] único protege contra replay |
+| Canal seguro (HTTPS)                  | Canal NO seguro (HTTP)                                      |
+| ------------------------------------- | ----------------------------------------------------------- |
+| Enviar `hash(PIN)` directamente       | [[Challenge-Response]] con [[HMAC]]                         |
+| TLS protege en tránsito               | El [[Nonce]] protege contra replay                          |
 | Solo proteger la BD con bcrypt + salt | Proteger BD con bcrypt + salt **y** la red con HMAC + nonce |
 
 ## Errores comunes en estos ejercicios

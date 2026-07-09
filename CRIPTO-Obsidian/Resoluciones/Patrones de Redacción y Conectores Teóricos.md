@@ -16,12 +16,12 @@
 
 ## Conectores teóricos que suman puntos
 
-| Concepto | Cuándo usarlo |
-|---|---|
-| [[Least Privilege|Menor privilegio]] (Saltzer y Schroeder) | Cuando un componente tiene más información de la necesaria |
-| Separación de tareas ([[Modelo Clark-Wilson]] C3) | Cuando una sola persona/componente controla todo un flujo |
-| Logs/auditoría ([[Modelo Clark-Wilson]] C4) | Cuando se necesita detectar fraude a posteriori |
-| [[Fail-Safe Defaults|Fallar de forma segura]] | Cuando hay un trade-off entre disponibilidad y seguridad |
-| No repudio → [[Firma Digital]] | Cuando alguien puede negar que hizo algo |
-| [[Denning-Sacco]] / timestamps | Cuando se agrega timestamp para anti-replay |
-| CIA trade-off (ver [[La triada]]) | Cuando hay tensión entre disponibilidad e integridad |
+| Concepto                                          | Cuándo usarlo                                              |
+| ------------------------------------------------- | ---------------------------------------------------------- |
+| [[Least Privilege]] (Saltzer y Schroeder)         | Cuando un componente tiene más información de la necesaria |
+| Separación de tareas ([[Modelo Clark-Wilson]] C3) | Cuando una sola persona/componente controla todo un flujo  |
+| Logs/auditoría ([[Modelo Clark-Wilson]] C4)       | Cuando se necesita detectar fraude a posteriori            |
+| [[Fail-Safe Defaults]]                            | Cuando hay un trade-off entre disponibilidad y seguridad   |
+| No repudio → [[Firma Digital]]                    | Cuando alguien puede negar que hizo algo                   |
+| [[Denning-Sacco]] / timestamps                    | Cuando se agrega timestamp para anti-replay                |
+| CIA trade-off (ver [[La triada]])                 | Cuando hay tensión entre disponibilidad e integridad       |
